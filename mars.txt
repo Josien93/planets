@@ -1,2 +1,4 @@
 This is mars
 
+Mars is a red planet
+No one lives there
